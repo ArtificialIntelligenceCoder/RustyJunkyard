@@ -1,10 +1,6 @@
 
 
 
-Home made stuff mostly here. Just for fun and education. If you want production grade reliable encryption/decryption, do not look at a script to serve you best. Scripts work, but are no where near production grade. Instead, use a well tested and well  maintained app like Age or Rage. Age is made in GOLANG, and RAGE is the Rust implementation of Age.  https://github.com/str4d/rage 
-
-
-
 
 Developing encryption-related applications in Rust is a feasible and attractive proposition due to Rust's strong emphasis on memory safety, concurrency, and security. The language's features make it a suitable choice for implementing cryptographic algorithms and building secure systems. There are numerous well-known encryption algorithms that could be implemented in Rust, ranging from traditional symmetric and asymmetric encryption algorithms to modern cryptographic primitives. Here, I will discuss several well-known encryption algorithms that could be used to create "decent encryption algo apps" in Rust, as well as the existing state of Rust libraries for cryptography.
 
