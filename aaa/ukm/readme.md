@@ -1,4 +1,4 @@
-# Deterministic Key Maker
+# Ultimate (Deterministic) Key Maker
 
 This project is a command-line application written in Rust that generates a deterministic cryptographic key based on a password. The generated key is unique, highly randomized, and repeatable given the same inputs. The key is output in raw binary form, making it suitable for secure applications where reproducibility and high entropy are desired.
 
